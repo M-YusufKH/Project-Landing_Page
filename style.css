@@ -64,6 +64,11 @@ h3 {
     margin: 20px;
 }
 
+.buying {
+    margin: 16px;
+    color: teal;
+}
+
 .footer {
     display: flex;
     align-items: center;
