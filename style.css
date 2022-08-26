@@ -18,6 +18,12 @@ body {
     display: flex;
     margin-left: auto;
     gap: 10px;
+    text-decoration:none;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
 }
 
 .Main {
